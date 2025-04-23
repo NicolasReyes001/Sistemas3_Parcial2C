@@ -4,6 +4,7 @@
 int main(){
 
 printf("Hola Mundo");
+printf("Nueva Linea");
         
 }
 
